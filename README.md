@@ -24,7 +24,7 @@ plugins, application logic, and the deployment pipelines that keep them running.
 
 | Project | Description |
 | --- | --- |
-| [elevenplusgcse.com](https://elevenplusgcse.com) | Learning platform for ElevenPlusGCSE Limited: 11 Plus, GCSE and A Level resources with live sessions, alongside a Christian studies section for devotionals and Bible study |
+| **[ElevenPlusGCSE](https://github.com/OHURU-IAN/Elevenplusgcsedev)**<br>[elevenplusgcse.com](https://elevenplusgcse.com) | Learning platform for ElevenPlusGCSE Limited: 11 Plus, GCSE and A Level resources with live sessions, alongside a Christian studies section for devotionals and Bible study |
 
 Additional work is listed in my [pinned repositories](https://github.com/OHURU-IAN?tab=repositories).
 
