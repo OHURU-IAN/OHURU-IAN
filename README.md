@@ -16,7 +16,7 @@ I take products from first commit to deployment: data models, server logic, UI, 
 | **Languages** | TypeScript, JavaScript (ES2022+), PHP, Python, SQL, HTML5, CSS3 |
 | **Front end** | React 19, Next.js (App Router, Server Actions), Tailwind CSS, Three.js |
 | **Back end** | Node.js, Express, WebSockets, Laravel, WordPress (themes, plugins, REST API) |
-| **Data** | Prisma ORM, SQLite, MySQL, JSON Schema |
+| **Data** | Prisma ORM, SQLite, JSON Schema, Google Sheets (Apps Script) |
 | **DevOps** | Git, GitHub Actions, GitHub Pages, Railway, npm, Composer |
 
 ---
@@ -25,12 +25,12 @@ I take products from first commit to deployment: data models, server logic, UI, 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[Sweet Layers](https://github.com/OHURU-IAN/cake-w3b)** | E-commerce catalogue with a password-protected admin dashboard for full CRUD on products and image uploads. Server Actions for mutations, bcrypt-hashed auth, 3D product rendering. Deployed on Railway. | Next.js 16, React 19, TypeScript, Prisma, Tailwind, Three.js |
+| **[Sweet Layers](https://github.com/OHURU-IAN/cake-w3b)** | Product catalogue with a password-protected admin CMS for full CRUD on products and image uploads. Server Actions for mutations, HMAC-signed session cookies checked in both middleware and actions, validated uploads, 3D product rendering. Deployed on Railway. | Next.js 16, React 19, TypeScript, Prisma, Tailwind, Three.js |
 | **[Study Hub](https://github.com/OHURU-IAN/LatestNewsSR)** | Learning platform with ordered courses → modules → lessons, video player, **real-time chat** per lesson and community channel, and an admin panel to control live streams. | Node.js, Express, WebSockets (`ws`), JavaScript |
-| **[Employee Timesheet](https://github.com/OHURU-IAN/employee-timesheet)** · [live](https://ohuru-ian.github.io/employee-timesheet/) | Timesheet app used by a homecare business. Auto-totals shift hours, captures signatures and prints on one A3 page in every major browser. Includes a Python generator that builds sheets from JSON validated against a schema. | JavaScript, Python, JSON Schema |
-| **[Club Registration](https://github.com/OHURU-IAN/club-desk-RU)** | School club directory and sign-up flow. A Google Apps Script backend saves registrations to Sheets before showing WhatsApp invite links, so they aren't exposed publicly. CI/CD through GitHub Actions. | JavaScript, Google Apps Script, GitHub Actions |
+| **[Employee Timesheet](https://github.com/OHURU-IAN/employee-timesheet)** · [live](https://ohuru-ian.github.io/employee-timesheet/) | Timesheet app used by a homecare business. Auto-totals shift hours, captures signatures and prints on one A3 page in every major browser. Includes a Python generator that builds filled sheets from JSON data, with a JSON Schema documenting the input format. | JavaScript, Python, JSON Schema |
+| **[Club Registration](https://github.com/OHURU-IAN/club-desk-RU)** | University club directory and sign-up flow. Club data is driven by JSON, and a serverless Google Apps Script backend records registrations in Google Sheets before sending students to the club's WhatsApp group. Deployed to GitHub Pages by GitHub Actions. | JavaScript, Google Apps Script, GitHub Actions |
 | **[ElevenPlusGCSE](https://github.com/OHURU-IAN/Elevenplusgcsedev)** · [live](https://elevenplusgcse.com) | Education platform for ElevenPlusGCSE Limited offering 11 Plus, GCSE and A Level resources and live sessions. | WordPress, PHP, JavaScript |
-| **[Student Management System](https://github.com/OHURU-IAN/student-management-system)** | CRUD application for managing student records. | Laravel, PHP, MySQL |
+| **[Student Management System](https://github.com/OHURU-IAN/student-management-system)** *(in progress)* | Laravel app for managing student records. Schema and admin layout are done; resource controller and CRUD views are next. | Laravel 11, PHP 8.2, SQLite |
 
 ---
 
