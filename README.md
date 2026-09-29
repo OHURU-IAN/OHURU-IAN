@@ -43,10 +43,11 @@ I take products from first commit to deployment: data models, server logic, UI, 
 
 ---
 
-## Currently
+## Experience
 
-- Building [elevenplusgcse.com](https://elevenplusgcse.com) for ElevenPlusGCSE Limited
-- Deepening my skills in testing (Jest, Playwright) and cloud deployment
+- **Software Engineer**, AIMEX Software (Jul 2025 – Jun 2026): features, workflows and testing for a mobile gym-management application
+- **Full Stack Web Developer**, ElevenPlusGCSE (Jun 2024 – Jun 2026): built and maintained [elevenplusgcse.com](https://elevenplusgcse.com)
+- **BSc Computer Science (Software Engineering)**, Riara University, Nairobi (2022 – 2026)
 
 ---
 
