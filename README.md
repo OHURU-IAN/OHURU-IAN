@@ -5,7 +5,7 @@ I take products from first commit to deployment: data models, server logic, UI, 
 
 [Portfolio](https://ohuru-ian.github.io) · [CV (PDF)](https://ohuru-ian.github.io/Ian_Ohuru_CV_2026.pdf) · [Email](mailto:ohuruian@gmail.com)
 
-**Open to software engineering roles** — full-stack, front-end or back-end.
+**Based in Nairobi, Kenya. Open to software engineering roles**: full-stack, front-end or back-end.
 
 ---
 
