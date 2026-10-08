@@ -16,7 +16,8 @@ I take products from first commit to deployment: data models, server logic, UI, 
 | **Languages** | TypeScript, JavaScript (ES2022+), PHP, Python, SQL, HTML5, CSS3 |
 | **Front end** | React 19, Next.js (App Router, Server Actions), Tailwind CSS, Three.js |
 | **Back end** | Node.js, Express, WebSockets, Laravel, WordPress (themes, plugins, REST API) |
-| **Data** | Prisma ORM, SQLite, JSON Schema, Google Sheets (Apps Script) |
+| **Data** | MySQL, SQLite, Prisma ORM, Eloquent ORM, JSON Schema, Google Sheets (Apps Script) |
+| **Testing** | PHPUnit feature tests, CI test matrices in GitHub Actions |
 | **DevOps** | Git, GitHub Actions, GitHub Pages, Railway, npm, Composer |
 
 ---
