@@ -37,16 +37,16 @@ I take products from first commit to deployment: data models, server logic, UI, 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/OHURU-IAN/sweet-layers"><img src="assets/screenshots/sweet-layers.jpg" alt="Sweet Layers home page with a 3D cake"></a><br><sub><b>Sweet Layers</b>: catalogue home page with 3D cake</sub></td>
-    <td width="50%"><a href="https://github.com/OHURU-IAN/sweet-layers"><img src="assets/screenshots/sweet-layers-admin.jpg" alt="Sweet Layers admin dashboard listing cakes"></a><br><sub><b>Sweet Layers</b>: admin CMS dashboard</sub></td>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/sweet-layers"><img src="https://raw.githubusercontent.com/OHURU-IAN/OHURU-IAN/main/assets/screenshots/sweet-layers.jpg" alt="Sweet Layers home page with a 3D cake"></a><br><sub><b>Sweet Layers</b>: catalogue home page with 3D cake</sub></td>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/sweet-layers"><img src="https://raw.githubusercontent.com/OHURU-IAN/OHURU-IAN/main/assets/screenshots/sweet-layers-admin.jpg" alt="Sweet Layers admin dashboard listing cakes"></a><br><sub><b>Sweet Layers</b>: admin CMS dashboard</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/OHURU-IAN/study-hub"><img src="assets/screenshots/study-hub.jpg" alt="Study Hub home page"></a><br><sub><b>Study Hub</b>: learning platform home page</sub></td>
-    <td width="50%"><a href="https://github.com/OHURU-IAN/student-management-system"><img src="assets/screenshots/student-management-system.jpg" alt="Student Management System student list with search and filters"></a><br><sub><b>Student Management System</b>: searchable student list</sub></td>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/study-hub"><img src="https://raw.githubusercontent.com/OHURU-IAN/OHURU-IAN/main/assets/screenshots/study-hub.jpg" alt="Study Hub home page"></a><br><sub><b>Study Hub</b>: learning platform home page</sub></td>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/student-management-system"><img src="https://raw.githubusercontent.com/OHURU-IAN/OHURU-IAN/main/assets/screenshots/student-management-system.jpg" alt="Student Management System student list with search and filters"></a><br><sub><b>Student Management System</b>: searchable student list</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://ohuru-ian.github.io/employee-timesheet/"><img src="assets/screenshots/employee-timesheet.jpg" alt="Employee weekly timesheet"></a><br><sub><b>Employee Timesheet</b>: printable weekly timesheet</sub></td>
-    <td width="50%"><a href="https://ohuru-ian.github.io/club-desk-RU/"><img src="assets/screenshots/club-registration.jpg" alt="Club Registration landing page"></a><br><sub><b>Club Registration</b>: club sign-up landing page</sub></td>
+    <td width="50%"><a href="https://ohuru-ian.github.io/employee-timesheet/"><img src="https://raw.githubusercontent.com/OHURU-IAN/OHURU-IAN/main/assets/screenshots/employee-timesheet.jpg" alt="Employee weekly timesheet"></a><br><sub><b>Employee Timesheet</b>: printable weekly timesheet</sub></td>
+    <td width="50%"><a href="https://ohuru-ian.github.io/club-desk-RU/"><img src="https://raw.githubusercontent.com/OHURU-IAN/OHURU-IAN/main/assets/screenshots/club-registration.jpg" alt="Club Registration landing page"></a><br><sub><b>Club Registration</b>: club sign-up landing page</sub></td>
   </tr>
 </table>
 
