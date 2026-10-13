@@ -33,6 +33,23 @@ I take products from first commit to deployment: data models, server logic, UI, 
 | **[ElevenPlusGCSE](https://github.com/OHURU-IAN/Elevenplusgcsedev)** · [live](https://elevenplusgcse.com) | Education platform for ElevenPlusGCSE Limited offering 11 Plus, GCSE and A Level resources and live sessions. | WordPress, PHP, JavaScript |
 | **[Student Management System](https://github.com/OHURU-IAN/student-management-system)** | Laravel app for managing students and courses: staff login with rate limiting, resource controllers, Form Request validation, search, filtering and pagination, and a `belongsTo`/`hasMany` relationship that keeps students when a course is deleted. 40 feature tests run in GitHub Actions on PHP 8.2–8.4. | Laravel 12, PHP, Blade, Bootstrap 5, SQLite/MySQL |
 
+### Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/sweet-layers"><img src="assets/screenshots/sweet-layers.jpg" alt="Sweet Layers home page with a 3D cake"></a><br><sub><b>Sweet Layers</b>: catalogue home page with 3D cake</sub></td>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/sweet-layers"><img src="assets/screenshots/sweet-layers-admin.jpg" alt="Sweet Layers admin dashboard listing cakes"></a><br><sub><b>Sweet Layers</b>: admin CMS dashboard</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/study-hub"><img src="assets/screenshots/study-hub.jpg" alt="Study Hub home page"></a><br><sub><b>Study Hub</b>: learning platform home page</sub></td>
+    <td width="50%"><a href="https://github.com/OHURU-IAN/student-management-system"><img src="assets/screenshots/student-management-system.jpg" alt="Student Management System student list with search and filters"></a><br><sub><b>Student Management System</b>: searchable student list</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://ohuru-ian.github.io/employee-timesheet/"><img src="assets/screenshots/employee-timesheet.jpg" alt="Employee weekly timesheet"></a><br><sub><b>Employee Timesheet</b>: printable weekly timesheet</sub></td>
+    <td width="50%"><a href="https://ohuru-ian.github.io/club-desk-RU/"><img src="assets/screenshots/club-registration.jpg" alt="Club Registration landing page"></a><br><sub><b>Club Registration</b>: club sign-up landing page</sub></td>
+  </tr>
+</table>
+
 ---
 
 ## How I Work
